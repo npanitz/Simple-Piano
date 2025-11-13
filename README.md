@@ -41,3 +41,5 @@ A browser-based piano built with React and Tone.js. Play notes using your keyboa
    cd simple-piano-app
    npm install
    npm start
+
+This project was bootstrapped with Create React App.
